@@ -1,24 +1,17 @@
-# User Stories for Educational Storytelling PWA
+## MVP User Stories
 
-Below are 10 user stories, written in Markdown with the standard format:
+### As a Child (End-User):
 
-1. **As a Child**, I want to download a story pack when I have internet, so that I can listen to stories offline later.
+1. **As a Child**, I want to download a story pack when I’m online, so that I can listen to stories offline when there’s no internet.
+2. **As a Child**, I want to listen to a story (voice-only or voice + image), so that I can learn and enjoy a narrative even without reading.
+3. **As a Child**, I want to complete a simple quiz after each story, so that I can check what I’ve learned and reinforce new words.
+4. **As a Child**, I want to earn a badge or sticker when I finish a quiz, so that I feel motivated and rewarded for learning.
+5. **As a Child**, I want to play audio stories with basic controls (play, pause, rewind), so that I can listen at my own pace and replay tricky parts.
 
-2. **As a Child**, I want to take vocabulary quizzes after each story, so that I can check what I’ve learned.
+### As an Admin (Platform-Side):
 
-3. **As a Child**, I want to earn fun badges when I complete quizzes, so that I feel motivated to keep learning.
-
-4. **As a Parent**, I want to view my child's vocabulary growth over time, so that I can understand their learning progress.
-
-5. **As a Parent**, I want to approve any content my child records for sharing, so that I can protect their privacy.
-
-6. **As a Teacher**, I want to assign specific story packs to a group of students, so that I can tailor lessons to their level.
-
-7. **As a Story Writer**, I want to submit a new story with tagged vocabulary, so that children can learn new words when listening.
-
-8. **As a Admin**, I want to listen to submitted story audio and approve it, so that the playback quality is suitable for children.
-
-9. **As an Admin**, I want to upload lightweight SVG illustrations for a story, so that the app stays small and fast on low-capacity devices.
-
-10. **As an Admin**, I want to generate offline content bundles, so that families can download them over limited connectivity.
-
+6. **As an Admin**, I want to upload new story content along with tagged vocabulary terms, so that children can access fresh learning material aligned with learning outcomes.
+7. **As an Admin**, I want to approve or reject submitted stories and audio narrations, so that only high-quality and age-appropriate content is published.
+8. **As an Admin**, I want to generate downloadable story bundles for offline distribution, so that families with limited connectivity can easily access content.
+9. **As an Admin**, I want to view analytics on story downloads, quiz completion, and vocabulary progress, so that I can gauge engagement and learning impact.
+10. **As an Admin**, I want to manage and version cached content and story assets, so that users always get the latest approved versions without storage clutter.

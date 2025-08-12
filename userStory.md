@@ -16,9 +16,9 @@ Below are 10 user stories, written in Markdown with the standard format:
 
 7. **As a Story Writer**, I want to submit a new story with tagged vocabulary, so that children can learn new words when listening.
 
-8. **As a Narration Reviewer**, I want to listen to submitted story audio and approve it, so that the playback quality is suitable for children.
+8. **As a Admin**, I want to listen to submitted story audio and approve it, so that the playback quality is suitable for children.
 
-9. **As an Illustrator**, I want to upload lightweight SVG illustrations for a story, so that the app stays small and fast on low-capacity devices.
+9. **As an Admin**, I want to upload lightweight SVG illustrations for a story, so that the app stays small and fast on low-capacity devices.
 
-10. **As a System Admin**, I want to generate offline content bundles, so that families can download them over limited connectivity.
+10. **As an Admin**, I want to generate offline content bundles, so that families can download them over limited connectivity.
 

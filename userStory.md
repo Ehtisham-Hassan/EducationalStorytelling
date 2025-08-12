@@ -14,4 +14,4 @@
 7. **As an Admin**, I want to approve or reject submitted stories and audio narrations, so that only high-quality and age-appropriate content is published.
 8. **As an Admin**, I want to generate downloadable story bundles for offline distribution, so that families with limited connectivity can easily access content.
 9. **As an Admin**, I want to view analytics on story downloads, quiz completion, and vocabulary progress, so that I can gauge engagement and learning impact.
-10. **As an Admin**, I want to manage and version cached content and story assets, so that users always get the latest approved versions without storage clutter.
+10. **As an Admin**, I want the system to automatically analyze quiz results and identify frequently misunderstood vocabulary, so that I can prioritize which story packs need additional support or supplementary materials.
